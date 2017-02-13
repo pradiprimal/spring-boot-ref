@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spring-data multiple datasource demo
 ====================================
 
@@ -12,3 +13,6 @@ The project is configured to *not* create the schema or tables. It assumes that:
 It's built with Maven, so from the command line you can run a full build (including tests):
 
     mvn clean install
+=======
+# spring-boot-ref
+>>>>>>> 7442af76fe20dbdea650e552f25bfa9eca7051ad
